@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 朝阳暮逝忆
+title: Qyujie
 subtitle:
-description: Monochrome
+description: Qyujie
 keywords:
-author: 朝阳暮逝忆
+author: Qyujie
 language: zh-Hans
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://zhaoyangmushiyi.github.io
+url: http://Qyujie.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -79,6 +79,6 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:zhaoyangmushiyi/zhaoyangmushiyi.github.io
+  repo: git@github.com:Qyujie/Qyujie.github.io
   branch: master
   message: 
